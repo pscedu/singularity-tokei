@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright © 2021 Pittsburgh Supercomputing Center.
+# Copyright © 2021-2023 Pittsburgh Supercomputing Center.
 # All Rights Reserved.
 
 IMAGE=singularity-tokei-12.1.2.sif

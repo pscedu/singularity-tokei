@@ -10,3 +10,6 @@ From: alpine:edge
 %post
     apk update
     apk add tokei
+
+%runscript
+    tokei "$@"
